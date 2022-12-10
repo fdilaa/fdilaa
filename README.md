@@ -1,4 +1,4 @@
-### Hi everyone 👋 saya dilaa😄 welkam tu ma portofolio :)
+### Hilo everyone 👋 i'm dilaa😄 
 
 <!--
 **fdilaa/fdilaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +22,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/nlfaaa/)](https://www.instagram.com/nlfaaa/)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/62895808340608)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khusnul-faddila-89764622a/)](https://www.linkedin.com/in/khusnul-faddila-89764622a/)
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Muhammad Rasyid Ridho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-rasyid-ridho-68a111235/)](https://www.linkedin.com/in/muhammad-rasyid-ridho-68a111235/) -->
 
-<h5 align="center">Made With 😀 by sayaorang</h5>
+<h5 align="center">Made With 😀 by dii</h5>
 
 <!--
 **rasyid15/rasyid15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
