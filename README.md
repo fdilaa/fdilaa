@@ -1,11 +1,9 @@
-### call me dila guys.
+### hi! I'm Dila
 
 <!--
 **fdilaa/fdilaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--BIO-->
-🧕🏻 My name is `DILA`. I’m `18 years old`. 
-
 🏫 I'm a `student at Telkom Malang Vocational High School`
 
 🌱 I’m currently learning various programming languages and tools to enhance my skills in software development.
